@@ -39,5 +39,5 @@ interfail:987654321
 bottechvaci:zxcvbnm
 markatoint:aa123456
 prothenorn:qwertyuiop
-sardonian:baignolje
-fatlike:crayonfour
+baignolje:sardonian
+crayonfour:fatlike
